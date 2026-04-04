@@ -57,9 +57,6 @@ valOutputsAcceleration = netAcceleration(valInputsAcceleration');
 performanceSpeed = perform(netSpeed, valTargetsSpeed', valOutputsSpeed);  
 performanceAcceleration = perform(netAcceleration, valTargetsAcceleration', valOutputsAcceleration);  
   
-fprintf('Validation Performance for Speed: %f\n', performanceSpeed);  
-fprintf('Validation Performance for Acceleration: %f\n', performanceAcceleration);  
-  
 % 可视化验证结果（可选，以速度为例）  
 figure;  
 subplot(2,1,1); % 分割画布，用于同时显示速度和加速度的验证结果  
