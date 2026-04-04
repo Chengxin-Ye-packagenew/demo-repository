@@ -38,5 +38,7 @@ This module integrates vehicle dynamics with stochastic behavior through two sub
 * [cite_start]**Reconstruction Accuracy**: Reduces Mean Absolute Error (MAE) by up to 75% and Root Mean Square Error (RMSE) by 60% compared to microscopic-based methods[cite: 1318, 1319].
 * [cite_start]**Hotspot Identification**: Demonstrates superior efficacy in localized pollution source identification by balancing high detection sensitivity with precision[cite: 1387, 1392].
 
+The basic framework process visulization can be seen in demo-repository/Process visulization.gif.
+
 
 
