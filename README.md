@@ -38,13 +38,5 @@ This module integrates vehicle dynamics with stochastic behavior through two sub
 * [cite_start]**Reconstruction Accuracy**: Reduces Mean Absolute Error (MAE) by up to 75% and Root Mean Square Error (RMSE) by 60% compared to microscopic-based methods[cite: 1318, 1319].
 * [cite_start]**Hotspot Identification**: Demonstrates superior efficacy in localized pollution source identification by balancing high detection sensitivity with precision[cite: 1387, 1392].
 
-## 4. Future Work
-[cite_start]Future research will extend this framework to wide-area networks and complex urban intersections, integrating heterogeneous data from Connected and Automated Vehicles (CAVs) to support sustainable, emission-aware intelligent traffic management[cite: 2044, 2045].
-
----
-[cite_start]**Authors**: Chengxin Ye, Haobing Liu, Tu Xu, Daiheng Ni [cite: 9]
-[cite_start]**Affiliation**: Key Laboratory of Road and Traffic Engineering, Ministry of Education, Tongji University [cite: 10]
-[cite_start]**Support**: Supported by the National Key R&D Program of China (No. 2023YFB3906900) [cite: 2047]
-
 
 
